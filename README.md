@@ -1,4 +1,5 @@
-# Docker and Permissions Setup
+# TERRAFORM project
+# Docker and Permissions Setup 
 
 ## Steps to Run Commands
 
