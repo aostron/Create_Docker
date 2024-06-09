@@ -14,5 +14,5 @@
 2. **Add permisions:** 
 
 
- ```sh
-sudo visudo
+    ```sh
+   sudo visudo
